@@ -1,6 +1,7 @@
 package edu.cmu.cs.cs214.rec10.plugin;
 /**
  * @author: hzy
+ * test 2.
  * */
 import edu.cmu.cs.cs214.rec10.framework.core.GameFramework;
 import edu.cmu.cs.cs214.rec10.framework.core.GamePlugin;
